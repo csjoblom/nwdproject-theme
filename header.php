@@ -16,6 +16,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="Northwest Dog Project">
+  <meta name="msvalidate.01" content="9FD1A2C370D3048CCF75D9CB4B74E23F" />
   <link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
