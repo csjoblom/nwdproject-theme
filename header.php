@@ -34,7 +34,7 @@
   <!--[if lt IE 9]>
 	<script src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/html5.js"></script>
 	<![endif]-->
-
+	<?php wp_head(); ?>
 
 	<!-- favicon -->
 	<link rel="icon"
@@ -49,6 +49,4 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
 </head>
-
-
 <body>
